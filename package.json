@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "nodejs-initialexample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almeidaah/nodejs-app.git"
+  },
+  "author": "Fernando Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almeidaah/nodejs-app/issues"
+  },
+  "homepage": "https://github.com/almeidaah/nodejs-app#readme"
+}
