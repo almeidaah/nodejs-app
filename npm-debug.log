@@ -1,0 +1,18 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'link' ]
+2 info using npm@1.3.10
+3 info using node@v0.10.25
+4 verbose linkPkg /home/almeida/git/nodejs-app
+5 error Error: EACCES, mkdir '/usr/local/lib/node_modules'
+5 error  { [Error: EACCES, mkdir '/usr/local/lib/node_modules'] errno: 3, code: 'EACCES', path: '/usr/local/lib/node_modules' }
+6 error Please try running this command again as root/Administrator.
+7 error System Linux 3.19.0-32-generic
+8 error command "/usr/bin/nodejs" "/usr/bin/npm" "link"
+9 error cwd /home/almeida/git/nodejs-app
+10 error node -v v0.10.25
+11 error npm -v 1.3.10
+12 error path /usr/local/lib/node_modules
+13 error code EACCES
+14 error errno 3
+15 error stack Error: EACCES, mkdir '/usr/local/lib/node_modules'
+16 verbose exit [ 3, true ]

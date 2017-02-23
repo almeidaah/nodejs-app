@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/almeidaah/nodejs-app/issues"
   },
-  "homepage": "https://github.com/almeidaah/nodejs-app#readme"
+  "homepage": "https://github.com/almeidaah/nodejs-app#readme",
+  "dependencies": {
+    "content-disposition": "~0.5.2",
+    "commander": "~2.9.0",
+    "express": "~4.14.1"
+  }
 }
